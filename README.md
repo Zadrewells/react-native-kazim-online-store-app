@@ -1,4 +1,4 @@
-# kaizm oline store
+# Kazemi oline store
 A online clothing store app, written in react-native
 
 ### Demo
